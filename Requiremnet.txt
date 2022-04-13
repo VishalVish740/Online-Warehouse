@@ -1,9 +1,10 @@
-install python
-pip install django
-pip isntall pycrypto
-pip install paytm
-
-
+1. install python in your system
+2. Run the below command in command prompt
+    pip install django
+    pip isntall pycrypto
+    pip install paytm
+3. After installing following command open terminal in vs code or windows command prompt.
+4. change the directory to mac by using the (cd mac) command.
+5. After changing directory run the follwing command in terminal to start development server.
 python manage.py runserver
-
 
