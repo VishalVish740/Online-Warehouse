@@ -1,0 +1,9 @@
+install python
+pip install django
+pip isntall pycrypto
+pip install paytm
+
+
+python manage.py runserver
+
+
