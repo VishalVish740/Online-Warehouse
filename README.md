@@ -12,9 +12,9 @@ Online Warehouseis a E-Commerce Website for buying Products which is built by us
 
 1. Download and install python and any IDE.
 2. Download the following command with the help of pip 
-3. pip install django
-4. pip install pycryptodome
-5. pip install paytm
+* pip install django
+* pip install pycryptodome
+* pip install paytm
 
 # Features / Limitations
 
