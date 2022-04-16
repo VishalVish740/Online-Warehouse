@@ -27,6 +27,13 @@ Online Warehouseis a E-Commerce Website for buying Products which is built by us
 * You can track the order stautus by entering product id and email.
 * You can also create your own blog.
 
+# Execution
+
+* After Performing all the steps open cmd in project directory or open terminal in vs code or in pycharm.
+* Make sure the location of terminal should be in mac. to change in mac directory use the command (cd mac).
+* After changing location run the following command in terminal (python manage.py runserver)
+* This will give development server copy and paste it to browser to access the project and you can handle the followin task mentioned above.
+
 # Purpose of this Project
 
 * I built this project just for educational purpose, and now I thought of sharing it to the people who need it. Show your support by starring this repository.
